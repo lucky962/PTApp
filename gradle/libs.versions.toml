@@ -11,7 +11,7 @@ activityCompose = "1.12.2"
 composeBom = "2025.12.01"
 mapsCompose = "7.0.0"
 navigationRuntimeAndroid = "2.9.6"
-navigationComposeAndroid = "2.9.5"
+navigationComposeAndroid = "2.9.6"
 playServicesMaps = "19.2.0"
 secrets = "2.0.1"
 
